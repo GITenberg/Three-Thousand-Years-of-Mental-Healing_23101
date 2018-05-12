@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '25707'
     url: http://www.gutenberg.org/2009/agents/25707
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23101#Three-Thousand-Years-of-Mental-Healing
 gutenberg_issued: '2007-10-22'
 gutenberg_type: Text
 identifiers:
