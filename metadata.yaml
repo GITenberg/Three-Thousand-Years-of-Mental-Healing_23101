@@ -1,0 +1,27 @@
+_repo: Three-Thousand-Years-of-Mental-Healing_23101
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cutten, George Barton
+    birthdate: 1874
+    deathdate: 1962
+    gutenberg_agent_id: '25707'
+    url: http://www.gutenberg.org/2009/agents/25707
+description: ''
+gutenberg_issued: '2007-10-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23101'
+  lccn: '11006029'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'RZ'
+- !lcsh 'Mental healing'
+title: Three Thousand Years of Mental Healing
+url: http://www.gutenberg.org/ebooks/23101
